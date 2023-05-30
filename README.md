@@ -1,5 +1,5 @@
 # Prueba técnica — React developer
-![https://grupoaspasia.com/wp-content/uploads/2022/02/Logo350x70-2.png](https://grupoaspasia.com/wp-content/uploads/2022/02/Logo350x70-2.png)
+![](https://grupoaspasia.com/wp-content/uploads/2022/02/Logo350x70-2.png)
 ## Evalución Práctica - Desarrollo de una aplicación de lectura de libros
 
 El objetivo de esta evaluación práctica es que utilices tus habilidades de desarrollo en React y JavaScript/TypeScript para construir una aplicación web que permita a los usuarios buscar, filtrar y explorar una lista de libros.
